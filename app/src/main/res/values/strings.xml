@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProfilKu</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="biography">Biography</string>
+    <string name="register_now">Register NOW</string>
+    <string name="profile">Profile</string>
+    <string name="call_now">CALL NOW</string>
+    <string name="phone2">Phone</string>
+
+</resources>
